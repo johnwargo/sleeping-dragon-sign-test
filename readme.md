@@ -10,3 +10,5 @@ After I wired up the hardware, I had to have a little program I could use to mak
 
 I want the strands to behave differently, so this was the first time I ever worked with more than one FastLED LED array. 
 
+![Sleeping Dragon Sign](images/image-01.jpg)
+
